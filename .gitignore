@@ -70,3 +70,4 @@ buck-out/
 .DS_Store
 tmp/
 temp/
+.env
